@@ -1,0 +1,29 @@
+/*Desktop Medium Layout: 1280px. */
+@media only screen and (min-width:992px) and (max-width: 1200px){
+    .main-menu ul li {
+        padding-left: 50px;
+    }
+
+}
+
+
+/*Tablet Layout 768px. */
+@media only screen and (min-width: 768px) and (max-width: 991px){
+    .main-menu ul li {
+        padding-left: 30px;
+    }
+}
+
+
+ /*Small Mobile Layout: 328px. */
+@media only screen and (max-width: 767px){
+
+}
+
+/* Wide Mobile Layout: 480px. */
+@media only screen and (min-width: 480px) and (max-width:767px){
+    .main-menu ul li {
+        padding-left: 10px;
+    }
+
+}
